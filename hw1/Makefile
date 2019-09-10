@@ -8,4 +8,4 @@ run:
 	./ankith_hello
 
 clean:
-	rm *.o ankith_hello
+	rm ankith_hello
